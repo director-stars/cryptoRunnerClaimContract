@@ -1,0 +1,13 @@
+artifacts/
+cache/
+coverage/
+exports/
+node_modules/
+build/
+flatten/
+types/
+coverage.json
+.env
+.DS_Store
+yarn-error.log
+secret.json
